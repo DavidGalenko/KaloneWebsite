@@ -1,5 +1,5 @@
 # Kalone Ecommerce Website Project
 
-HTML website I started and designed using just html, js, and css then switched to learning React.js
+HTML website designed using just html, js, and css. Still very early stages created to learn and practice standard website design
 
-## kalone.netlify.app
+## https://kalone.netlify.app
